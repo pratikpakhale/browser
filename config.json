@@ -1,0 +1,8 @@
+{
+  "browser": {
+    "host": "0.0.0.0",
+    "port": "3000",
+    "max_contexts": 5,
+    "max_pages": 5
+  }
+}
